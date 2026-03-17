@@ -10,16 +10,11 @@
 
 # 🧠 What This Project Demonstrates
 
-This project analyzes how various socio-demographic and academic factors—such as gender, ethnicity, parental education level, lunch type, and test preparation—impact student performance as measured by test scores.
+This project demonstrates the development of a production-ready machine learning system, going beyond traditional model building to address real-world engineering challenges. It implements an end-to-end pipeline using FastAPI and MLflow to support model versioning, reproducibility, and reliable deployment.
 
-It focuses on the **engineering challenges of ML systems**, not just model accuracy:
+The system is designed with a modular architecture that separates the API layer, business logic, and model management, ensuring scalability and maintainability. Additionally, it includes monitoring for latency and failures, along with structured logging for traceability, enabling effective operation and debugging in production environments.
 
-* How do you **version and safely deploy models**?
-* How do you **monitor system health and failures**?
-* How do you ensure **reproducibility and traceability**?
-* How do you design systems that **scale and evolve**?
-
-👉 This project answers those questions with a working system.
+Overall, this project highlights the ability to design machine learning systems that are not only accurate, but also robust, observable, and production-ready.
 
 ---
 
